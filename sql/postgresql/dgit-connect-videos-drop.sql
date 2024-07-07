@@ -1,0 +1,1 @@
+\i tables-drop.sql
